@@ -1,5 +1,10 @@
 <h1 align="center">👋 Hi, I'm Özgür VURGUN</h1>
 <h3 align="center">i am a full stack web developer</h3>
+<style>
+body{
+align=center;  
+}
+</style>
 <!--
 - 👀 I’m interested in ...
 
@@ -10,7 +15,7 @@
 - 📫 How to reach me ...
 --->
 <br/>
-<div align="center">![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurvurgun&layout=compact)</div> 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurvurgun&layout=compact)
 
 <!---
 ozgurvurgun/ozgurvurgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
