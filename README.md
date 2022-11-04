@@ -4,6 +4,9 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurvurgun&layout=compact)
 
 
+<a href="http://www.github.com/ozgurvurgun"><img src="https://github-readme-stats.vercel.app/api?username=ozgurvurgun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=b0e0e6&hide_border=true&show_icons=true" alt="eserozvataf's GitHub stats" /></a>
+
+
 <a href="http://www.github.com/ozgurvurgun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ozgurvurgun&stroke=ffffff&background=b0e0e6&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!---
